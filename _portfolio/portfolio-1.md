@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning for Crystal Structure Design"
-excerpt: "Currently exploring offline reinforcement learning methods for learning a policy for sequentially designing crystal structures. <br/><img src='/images/offlineRL.png' width=200 height=150>"
+excerpt: "Currently exploring offline and online reinforcement learning methods for learning a policy for sequentially designing crystal structures. <br/><img src='/images/offlineRL.png' width=200 height=150>"
 collection: portfolio
 ---
 
