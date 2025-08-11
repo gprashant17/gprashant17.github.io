@@ -18,6 +18,7 @@ Hello and வணக்கம்! I am Prashant Govindarajan, a third year Comput
 Besides academics, I like playing frisbee, reading, and cooking. Lately, I’ve been learning to snowboard and play the flute. Feel free to reach out to me if you wish to have a chat about research and beyond 😁! Also, I am always looking forward to expanding my knowledge in crystallography, density functional theory, and solid-state physics, and getting domain-related inputs for my research. So if you have a background in these areas or wish to discuss about the RL aspects of my research, I'd love to have a conversation some time!
 
 # Publications
+- **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. **CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.** arXiv preprint arXiv:2507.09792 (2025).
 - **Govindarajan, Prashant**, Mathieu Reymond, Antoine Clavaud, Mariano Phielipp, Santiago Miret, and Sarath Chandar. **CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning.** In AI for Accelerated Materials Design-ICLR 2025.
 - **Govindarajan, Prashant**, Mathieu Reymond, Santiago Miret, Mariano Phielipp, and Sarath Chandar. **Crystal Design Amidst Noisy DFT Signals: A Reinforcement Learning Approach.** In AI for Accelerated Materials Design-NeurIPS 2024.
 - **Govindarajan, Prashant**, Mathieu Reymond, Santiago Miret, Antoine Clavaud, Mariano Phielipp, and Sarath Chandar. **A Reinforcement Learning Pipeline for Band Gap-directed Crystal Generation.** In AI for Accelerated Materials Design-Vienna 2024.
@@ -25,6 +26,7 @@ Besides academics, I like playing frisbee, reading, and cooking. Lately, I’ve 
 - **Govindarajan, Prashant**, Santiago Miret, Jarrid Rector-Brooks, Mariano Phielipp, Janarthanan Rajendran, and Sarath Chandar. **Behavioral Cloning for Crystal Design."** In Workshop on Machine Learning for Materials, ICLR 2023.
 
 # News
+- <span style="color:red"> June 2025</span> Released [CADmium](https://arxiv.org/abs/2507.09792) paper and dataset! 
 - <span style="color:red"> June 2025</span> Selected for FRQNT merit scholarship for international students ([PBEEE](https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/))
 - <span style="color:red"> April 2025</span> [CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning](https://openreview.net/forum?id=RykFbDm5SU#discussion) selected for a Spotlight at AI4Mat, ICLR 2025!
 - <span style="color:red"> December 2024</span> [Crystal Design Amidst Noisy DFT Signals: A Reinforcement Learning Approach](https://openreview.net/forum?id=MO5bMbUD27) accepted at AI4Mat 2024 (NeurIPS 2024)
