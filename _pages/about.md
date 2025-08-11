@@ -26,7 +26,7 @@ Besides academics, I like playing frisbee, reading, and cooking. Lately, I’ve 
 - **Govindarajan, Prashant**, Santiago Miret, Jarrid Rector-Brooks, Mariano Phielipp, Janarthanan Rajendran, and Sarath Chandar. **Behavioral Cloning for Crystal Design."** In Workshop on Machine Learning for Materials, ICLR 2023.
 
 # News
-- <span style="color:red"> June 2025</span> Released [CADmium](https://arxiv.org/abs/2507.09792) paper and dataset! 
+July - <span style="color:red"> June 2025</span> Released [CADmium](https://arxiv.org/abs/2507.09792) paper and dataset! 
 - <span style="color:red"> June 2025</span> Selected for FRQNT merit scholarship for international students ([PBEEE](https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/))
 - <span style="color:red"> April 2025</span> [CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning](https://openreview.net/forum?id=RykFbDm5SU#discussion) selected for a Spotlight at AI4Mat, ICLR 2025!
 - <span style="color:red"> December 2024</span> [Crystal Design Amidst Noisy DFT Signals: A Reinforcement Learning Approach](https://openreview.net/forum?id=MO5bMbUD27) accepted at AI4Mat 2024 (NeurIPS 2024)
