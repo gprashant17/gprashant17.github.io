@@ -26,7 +26,7 @@ Hello and வணக்கம்! I am a fourth-year Computer Engineering PhD can
 
 I was previously a dual degree student at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/), where I worked under [Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) on target-specific drug design. Besides academics, I like playing traveling, frisbee, and cooking. Lately, I’ve been learning to snowboard and play the flute. Feel free to reach out if you'd like to chat about research or anything beyond 😁! I’m always eager to learn more about crystallography, DFT, and solid-state physics, and would love to exchange ideas, especially on the RL aspects of my work!
 
-***I am actively seeking research internships in the areas of LLMs, reinforcement learning, and AI for Science.***
+<span style="font-family: 'Inter', 'Roboto', 'Helvetica Neue', Arial, sans-serif; font-style: italic; font-weight: 600; color: #2c3e50; font-size: 1.1em;">I am actively seeking research internships in the areas of LLMs, reinforcement learning, and AI for Science.</span>
 
 # Publications
 - **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. **CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.** arXiv preprint arXiv:2507.09792 (2025).
