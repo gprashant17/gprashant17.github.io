@@ -6,4 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Link to CV](https://drive.google.com/file/d/1SDhMzD1hLPGRkcYO_amSxlh6h6FGeJjZ/view?usp=sharing)
+
+<iframe src="/cv/CV___Prashant (9).pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+<p><a href="/cv/CV___Prashant (9).pdf" target="_blank">Open CV in new tab</a></p>

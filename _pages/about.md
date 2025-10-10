@@ -1,21 +1,32 @@
 ---
 permalink: /
-title: "Homepage"
+title: "**Prashant** Govindarajan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 <style type="text/css">
   body{
-  font-family: "Helvetica";
-}
+    font-family: 'IBM Plex Serif', serif;
+    line-height: 1.6;
+    color: #333;
+    font-weight: 400;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: 600;
+    color: #2c3e50;
+  }
 </style>
 
-Hello and வணக்கம்! I am Prashant Govindarajan, a fourth year Computer Engineering PhD candidate at [Mila-Quebec AI Institute](https://mila.quebec/en/) and [Polytechnique Montréal](https://polymtl.ca/) (engineering school of [UdéM](https://www.umontreal.ca/)), working under [Sarath Chandar](http://sarathchandar.in/). I am keenly interested in AI for scientific discovery focusing on drug and material design. I am primarily exploring reinforcement learning approaches. My current project, which is in collaboration with [Intel](https://www.intel.la/content/www/xl/es/research/overview.html), is on developing offline and online reinforcement learning methods for crystalline material design using first-principles. I am also working with [Ansys](https://www.ansys.com/) on LLMs for automating Computer-Aided Design (CAD). I was previously a dual degree student at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/), where I worked under [Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) on target-specific drug design. My research is supported by the [PBEEE](https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/) scholarship for international students.  
+Hello and வணக்கம்! I am a fourth-year Computer Engineering PhD candidate at [Mila-Quebec AI Institute](https://mila.quebec/en/) and [Polytechnique Montréal](https://polymtl.ca/) (engineering school of [UdéM](https://www.umontreal.ca/)), working under [Sarath Chandar](http://sarathchandar.in/). I am keenly interested in reinforcement learning and large language models for scientific discovery and beyond. In collaboration with [Intel](https://www.intel.la/content/www/xl/es/research/overview.html), I developed offline and online reinforcement learning methods for crystalline material design using first-principles. I also worked with [Ansys](https://www.ansys.com/) on LLMs for automating Computer-Aided Design (CAD). My research is supported by the [PBEEE](https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/) scholarship for international students.
 
-Besides academics, I like playing frisbee, reading, and cooking. Lately, I’ve been learning to snowboard and play the flute. Feel free to reach out to me if you wish to have a chat about research and beyond 😁! Also, I am always looking forward to expanding my knowledge in crystallography, density functional theory, and solid-state physics, and getting domain-related inputs for my research. So if you have a background in these areas or wish to discuss about the RL aspects of my research, I'd love to have a conversation some time!
+I was previously a dual degree student at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/), where I worked under [Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) on target-specific drug design. Besides academics, I like playing traveling, frisbee, and cooking. Lately, I’ve been learning to snowboard and play the flute. Feel free to reach out if you'd like to chat about research or anything beyond 😁! I’m always eager to learn more about crystallography, DFT, and solid-state physics, and would love to exchange ideas, especially on the RL aspects of my work!
+
+***I am actively seeking research internships in the areas of LLMs, reinforcement learning, and AI for Science.***
 
 # Publications
 - **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. **CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.** arXiv preprint arXiv:2507.09792 (2025).
@@ -25,7 +36,9 @@ Besides academics, I like playing frisbee, reading, and cooking. Lately, I’ve 
 - **Govindarajan, Prashant**, Santiago Miret, Jarrid Rector-Brooks, Mariano Phielipp, Janarthanan Rajendran, and Sarath Chandar. **Learning Conditional Policies for Crystal Design Using Offline Reinforcement Learning.** Digital Discovery (2024).
 - **Govindarajan, Prashant**, Santiago Miret, Jarrid Rector-Brooks, Mariano Phielipp, Janarthanan Rajendran, and Sarath Chandar. **Behavioral Cloning for Crystal Design."** In Workshop on Machine Learning for Materials, ICLR 2023.
 
+
 # News
+- <span style="color:red"> October 2025</span> See me at the [COLM conference](https://colmweb.org/)!
 - <span style="color:red"> August 2025</span> Teaching Assistant for [INF8245AE](https://chandar-lab.github.io/INF8245AE/), Machine Learning by Sarath Chandar
 - <span style="color:red"> July 2025</span> Released [CADmium](https://arxiv.org/abs/2507.09792) paper and dataset! 
 - <span style="color:red"> June 2025</span> Selected for FRQNT merit scholarship for international students ([PBEEE](https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/))
@@ -49,43 +62,43 @@ Besides academics, I like playing frisbee, reading, and cooking. Lately, I’ve 
 - <span style="color:red"> April 2022</span> Presented [poster](https://drive.google.com/file/d/1hT4OqObeOM7Mnjyqb1X_9Ukfz6YapC4N/view) for thesis work at RBCDSAI Annual Research Showcase
 - <span style="color:red"> April 2022</span> Selected for international travel bursary to attend Amii's AI Week 2022 
 - <span style="color:red"> January 2020</span> Selected for the [Khorana Program for Scholars](https://iusstf.org/khorana-program-for-scholars) to undertake research internship in the USA
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-<!-- A data-driven personal website
-====== -->
-<!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 
-<!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
+# Projects
 
-<!-- Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Fine-tuning LLMs for automating Computer-aided Designing
+With Ansys, we developed CADmium, a new open-source dataset consisting of natural language descriptions for 170k+ 3D CAD objects. We propose a novel LLM fine-tuning workflow with code LLMs, and augment existing evaluation schemes with new metrics. 
+<img src="/images/cadmium.png" width="400" height="200" style="display: block; margin: 0 auto;">
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Reinforcement Learning for Crystal Structure Design
+Currently exploring offline and online reinforcement learning methods for learning a policy for sequentially designing crystal structures.
+<img src="/images/crystalgym.png" width="400" height="200" style="display: block; margin: 0 auto;">
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Graph generative models for binding site-specific molecule generation
+Designing novel deep graph generative model for generating new ligand molecules that can bind to a given target receptor binding site.
+<img src="/images/thesisproj.png" width="400" height="200" style="display: block; margin: 0 auto;">
 
-Markdown generator
+## Analysis of drug response and gene expression data of AML cells
+Computational methods to identify drug-gene correlations and molecules that can induce leukemic cell maturation.
+<img src="/images/aml.png" width="400" height="200" style="display: block; margin: 0 auto;">
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Incorporating Geometry into Score-Based Model for Crystal Structure Design
+Two ways to incorporate crystal symmetry information as an inductive bias into a generative model for crystal structure design.
+<img src="/images/gcdvae.png" width="400" height="200" style="display: block; margin: 0 auto;">
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Analyzing the effects of visual representations in visual navigation tasks
+Two ways for encoding visual inputs for navigation task using RL -- pretraining a contrastive learning-based SimCLR model and VAE-based generative approach.
+<img src="/images/simclr.png" width="400" height="200" style="display: block; margin: 0 auto;">
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Deep generative models for single-cell gene expression analysis
+Evaluated state-of-the-art unsupervised deep learning techniques including variational autoencoders for single-cell gene expression data analysis.
+<img src="/images/vae.png" width="400" height="200" style="display: block; margin: 0 auto;">
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+## Generating drug-like molecules from gene expression signatures using transformer
+Designed an attention-based transformer model for de novo generation of drug-like molecules that can induce a desired transcriptomic profile. Accepted as poster at MLCSB COSI, ISMB 2022.
+<img src="/images/transformer.png" width="400" height="200" style="display: block; margin: 0 auto;">
+
+## Parallel analyses of canonic polyadic tensor decomposition algorithm
+CPU- and GPU-level parallelization of tensor decomposition algorithm using OpenMP and OpenACC.
+<img src="/images/cp.png" width="400" height="200" style="display: block; margin: 0 auto;">
+

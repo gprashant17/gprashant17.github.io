@@ -4,11 +4,7 @@ collection: publications
 permalink: /publication/2024-02-27-offlinerl-for-cd
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2023-10-01
-<<<<<<< HEAD
-venue: 'Digital Discovey'
-=======
 venue: 'Digital Discovery'
->>>>>>> 4dc5fd71af8c6463552365dc976f5fa7e07df6af
 paperurl: 'https://openreview.net/forum?id=VbjD8w2ctG'
 # citation: 'Prashant Govindarajan, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
