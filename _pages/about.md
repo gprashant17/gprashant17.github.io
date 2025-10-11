@@ -7,18 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 <style type="text/css">
   body{
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Onest', sans-serif;
     line-height: 1.6;
     color: #333;
     font-weight: 400;
   }
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Onest', sans-serif;
     font-weight: 600;
     color: #2c3e50;
+  }
+  
+  /* Reduce boldness of bolded text in titles */
+  h1 strong, h1 b {
+    font-weight: 600;
+  }
+  
+  /* Make the last name lighter */
+  h1 {
+    font-weight: 400;
   }
 </style>
 
@@ -26,7 +35,7 @@ Hello and வணக்கம்! I am a fourth-year Computer Engineering PhD can
 
 I was previously a dual degree student at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/), where I worked under [Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) on target-specific drug design. Besides academics, I like playing traveling, frisbee, and cooking. Lately, I’ve been learning to snowboard and play the flute. Feel free to reach out if you'd like to chat about research or anything beyond 😁! I’m always eager to learn more about crystallography, DFT, and solid-state physics, and would love to exchange ideas, especially on the RL aspects of my work!
 
-<span style="font-family: 'Inter', 'Roboto', 'Helvetica Neue', Arial, sans-serif; font-style: italic; font-weight: 600; color: #2c3e50; font-size: 1.1em;">I am actively seeking research internships in the areas of LLMs, reinforcement learning, and AI for Science.</span>
+<span style="font-family: 'Onest', Arial, sans-serif; font-style: italic; font-weight: 600; color: #2c3e50; font-size: 1.1em;">I am actively seeking research internships in the areas of LLMs, reinforcement learning, and AI for Science.</span>
 
 # Publications
 - **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. **CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.** arXiv preprint arXiv:2507.09792 (2025).
