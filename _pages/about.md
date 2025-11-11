@@ -38,6 +38,7 @@ I was previously a dual degree student at the [Indian Institute of Technology Ma
 <span style="font-family: 'Onest', Arial, sans-serif; font-style: italic; font-weight: 600; color: #2c3e50; font-size: 1.1em;">I am actively seeking research internships in the areas of LLMs, reinforcement learning, and AI for Science.</span>
 
 # Publications
+- Woo, Kowen*, **Prashant Govindarajan***, and Sarath Chandar. **Benchmarking Machine Learning Potentials for Crystal Structure Relaxation.** In NeurIPS 2025 AI for Science Workshop.
 - **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. **CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.** arXiv preprint arXiv:2507.09792 (2025).
 - **Govindarajan, Prashant**, Mathieu Reymond, Antoine Clavaud, Mariano Phielipp, Santiago Miret, and Sarath Chandar. **CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning.** In AI for Accelerated Materials Design-ICLR 2025.
 - **Govindarajan, Prashant**, Mathieu Reymond, Santiago Miret, Mariano Phielipp, and Sarath Chandar. **Crystal Design Amidst Noisy DFT Signals: A Reinforcement Learning Approach.** In AI for Accelerated Materials Design-NeurIPS 2024.
