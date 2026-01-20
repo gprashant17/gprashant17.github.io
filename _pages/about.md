@@ -31,7 +31,7 @@ redirect_from:
   }
 </style>
 
-Hello and வணக்கம்! I am a fourth-year Computer Engineering PhD candidate at [Mila-Quebec AI Institute](https://mila.quebec/en/) and [Polytechnique Montréal](https://polymtl.ca/) (engineering school of [UdéM](https://www.umontreal.ca/)), working under [Sarath Chandar](http://sarathchandar.in/). I am keenly interested in reinforcement learning and large language models for scientific discovery and beyond. In collaboration with [Intel](https://www.intel.la/content/www/xl/es/research/overview.html), I developed offline and online reinforcement learning methods for crystalline material design using first-principles. I also worked with [Ansys](https://www.ansys.com/) on LLMs for automating Computer-Aided Design (CAD). My research is supported by the [PBEEE](https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/) scholarship for international students.
+Hello and வணக்கம்! I am a fourth-year Computer Engineering PhD candidate at [Mila-Quebec AI Institute](https://mila.quebec/en/) and [Polytechnique Montréal](https://polymtl.ca/) (engineering school of [UdéM](https://www.umontreal.ca/)), working under [Sarath Chandar](http://sarathchandar.in/). I am keenly interested in reinforcement learning and large language models for scientific discovery and beyond. In collaboration with [Intel](https://www.intel.la/content/www/xl/es/research/overview.html), I developed offline and online reinforcement learning methods for crystalline material design using first-principles. I also worked with [Ansys](https://www.ansys.com/) on LLMs for automating Computer-Aided Design (CAD). Currently, I am working on improving exploration in RL fine-tuning of LLMs. My research was supported by the [PBEEE](https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/) scholarship for international students. 
 
 I was previously a dual degree student at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/), where I worked under [Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) on target-specific drug design. Besides academics, I like playing chess, frisbee, traveling, and cooking. Lately, I’ve been learning to snowboard and play the flute. Feel free to reach out if you'd like to chat about research or anything beyond 😁! I’m always eager to learn more about crystallography, DFT, and solid-state physics, and would love to exchange ideas, especially on the RL aspects of my work!
 
@@ -39,7 +39,7 @@ I was previously a dual degree student at the [Indian Institute of Technology Ma
 
 # Publications
 - Woo, Kowen*, **Prashant Govindarajan***, and Sarath Chandar. **Benchmarking Machine Learning Potentials for Crystal Structure Relaxation.** In NeurIPS 2025 AI for Science Workshop.
-- **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. **CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.** arXiv preprint arXiv:2507.09792 (2025).
+- **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. 2026. “CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.” Transactions on Machine Learning Research. 
 - **Govindarajan, Prashant**, Mathieu Reymond, Antoine Clavaud, Mariano Phielipp, Santiago Miret, and Sarath Chandar. **CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning.** In AI for Accelerated Materials Design-ICLR 2025.
 - **Govindarajan, Prashant**, Mathieu Reymond, Santiago Miret, Mariano Phielipp, and Sarath Chandar. **Crystal Design Amidst Noisy DFT Signals: A Reinforcement Learning Approach.** In AI for Accelerated Materials Design-NeurIPS 2024.
 - **Govindarajan, Prashant**, Mathieu Reymond, Santiago Miret, Antoine Clavaud, Mariano Phielipp, and Sarath Chandar. **A Reinforcement Learning Pipeline for Band Gap-directed Crystal Generation.** In AI for Accelerated Materials Design-Vienna 2024.
@@ -48,6 +48,8 @@ I was previously a dual degree student at the [Indian Institute of Technology Ma
 
 
 # News
+- <span style="color:red"> January 2026</span> [CADmium](https://openreview.net/forum?id=lExqWvQht8) is now published in TMLR! 
+- <span style="color:red"> December 2025</span> Attending NeurIPS 2025 in San Diego and presenting in the AI4Science workshop. 
 - <span style="color:red"> October 2025</span> See me at the [COLM conference](https://colmweb.org/)!
 - <span style="color:red"> August 2025</span> Teaching Assistant for [INF8245AE](https://chandar-lab.github.io/INF8245AE/), Machine Learning by Sarath Chandar
 - <span style="color:red"> July 2025</span> Released [CADmium](https://arxiv.org/abs/2507.09792) paper and dataset! 
