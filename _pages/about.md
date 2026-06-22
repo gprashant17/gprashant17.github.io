@@ -40,8 +40,6 @@ I was previously a dual degree student at the [Indian Institute of Technology Ma
 
 I am always open to discussing research and potential collaborations. Please feel free to reach out 😁!
 
-<span style="font-family: 'Onest', Arial, sans-serif; font-style: italic; font-weight: 500; color: #2c3e50; font-size: 1.1em;">I am seeking research internships and residency programs in the areas of LLMs, reinforcement learning, and AI for Science.</span>
-
 # Publications
 - **Govindarajan, Prashant**, Kishalay Das, and Sarath Chandar. **CrysTune: Crystal Generation via Fine-Tuning of Large Language Models on Wyckoff Representations.** ICML 2026 AI for Science Workshop.
 - **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. 2026. **CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.** Transactions on Machine Learning Research. 
