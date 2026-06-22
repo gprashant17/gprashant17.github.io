@@ -43,7 +43,8 @@ I am always open to discussing research and potential collaborations. Please fee
 <span style="font-family: 'Onest', Arial, sans-serif; font-style: italic; font-weight: 500; color: #2c3e50; font-size: 1.1em;">I am seeking research internships and residency programs in the areas of LLMs, reinforcement learning, and AI for Science.</span>
 
 # Publications
-- **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. 2026. “CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.” Transactions on Machine Learning Research. 
+- **Govindarajan, Prashant**, Kishalay Das, and Sarath Chandar. **CrysTune: Crystal Generation via Fine-Tuning of Large Language Models on Wyckoff Representations.** ICML 2026 AI for Science Workshop.
+- **Govindarajan, Prashant\***, Davide Baldelli\*, Jay Pathak, Quentin Fournier, and Sarath Chandar. 2026. **CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design.** Transactions on Machine Learning Research. 
 - **Govindarajan, Prashant**, Mathieu Reymond, Antoine Clavaud, Mariano Phielipp, Santiago Miret, and Sarath Chandar. **CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning.** In AI for Accelerated Materials Design-ICLR 2025.
 - **Govindarajan, Prashant**, Santiago Miret, Jarrid Rector-Brooks, Mariano Phielipp, Janarthanan Rajendran, and Sarath Chandar. **Learning Conditional Policies for Crystal Design Using Offline Reinforcement Learning.** Digital Discovery (2024).
 - **Govindarajan, Prashant**, Mathieu Reymond, Santiago Miret, Mariano Phielipp, and Sarath Chandar. **Crystal Design Amidst Noisy DFT Signals: A Reinforcement Learning Approach.** In AI for Accelerated Materials Design-NeurIPS 2024.
