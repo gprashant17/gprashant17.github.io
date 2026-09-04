@@ -31,7 +31,7 @@ redirect_from:
   }
 </style>
 
-Hey there! I'm a fourth-year Computer Engineering PhD candidate at [Mila-Quebec AI Institute](https://mila.quebec/en/) and [Polytechnique Montréal](https://polymtl.ca/) (engineering school of [UdéM](https://www.umontreal.ca/)), working under [Sarath Chandar](http://sarathchandar.in/). 
+Hey there! I'm a fifth-year Computer Engineering PhD candidate at [Mila-Quebec AI Institute](https://mila.quebec/en/) and [Polytechnique Montréal](https://polymtl.ca/) (engineering school of [UdéM](https://www.umontreal.ca/)), working under [Sarath Chandar](http://sarathchandar.in/). 
 
 I am keenly interested in reinforcement learning and large language models for scientific discovery and beyond. In collaboration with [Intel](https://www.intel.la/content/www/xl/es/research/overview.html), I developed offline and online reinforcement learning methods for crystalline material design using first-principles. I also worked with [Ansys](https://www.ansys.com/) on LLMs for automating Computer-Aided Design (CAD). Currently, I am working on improving exploration in RL fine-tuning of LLMs. My research is supported by [FRQNT](https://frq.gouv.qc.ca/en/program/doctoral-research-scholarship-2026-2027-b2-regular-component-and-re-entering-research-component/), and previously by the [PBEEE](https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/) scholarship for international students. I co-organize the [AI Mat](https://ai-mat-rg.github.io/) (AI for Materials) reading group at Mila.
 
